@@ -20,7 +20,4 @@ export class HeroeTarjetaComponent implements OnInit {
   }
 
 }
-function input() {
-  throw new Error('Function not implemented.');
-}
 
